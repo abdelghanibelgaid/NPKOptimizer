@@ -18,7 +18,7 @@ def get_best_npk(latitude, longitude, ph, moisture, soil_texture):
 
 # Streamlit app
 def main():
-    st.title("NPK Recommendation System")
+    st.title("UM6P NPK Recommendation System")
     
     # Input for coordinates
     st.subheader("Enter Coordinates")
